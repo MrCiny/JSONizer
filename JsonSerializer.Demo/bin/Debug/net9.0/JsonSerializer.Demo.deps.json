@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "JsonSerializer.Demo/1.0.0": {
+        "dependencies": {
+          "JsonSerializer": "1.0.0"
+        },
+        "runtime": {
+          "JsonSerializer.Demo.dll": {}
+        }
+      },
+      "JsonSerializer/1.0.0": {
+        "runtime": {
+          "JsonSerializer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JsonSerializer.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JsonSerializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

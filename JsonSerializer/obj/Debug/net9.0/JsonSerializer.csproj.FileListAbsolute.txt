@@ -1,0 +1,12 @@
+D:\niks\projects\c#\JSONizer\JsonSerializer\bin\Debug\net9.0\JsonSerializer.deps.json
+D:\niks\projects\c#\JSONizer\JsonSerializer\bin\Debug\net9.0\JsonSerializer.dll
+D:\niks\projects\c#\JSONizer\JsonSerializer\bin\Debug\net9.0\JsonSerializer.pdb
+D:\niks\projects\c#\JSONizer\JsonSerializer\obj\Debug\net9.0\JsonSerializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\niks\projects\c#\JSONizer\JsonSerializer\obj\Debug\net9.0\JsonSerializer.AssemblyInfoInputs.cache
+D:\niks\projects\c#\JSONizer\JsonSerializer\obj\Debug\net9.0\JsonSerializer.AssemblyInfo.cs
+D:\niks\projects\c#\JSONizer\JsonSerializer\obj\Debug\net9.0\JsonSerializer.csproj.CoreCompileInputs.cache
+D:\niks\projects\c#\JSONizer\JsonSerializer\obj\Debug\net9.0\JsonSerializer.sourcelink.json
+D:\niks\projects\c#\JSONizer\JsonSerializer\obj\Debug\net9.0\JsonSerializer.dll
+D:\niks\projects\c#\JSONizer\JsonSerializer\obj\Debug\net9.0\refint\JsonSerializer.dll
+D:\niks\projects\c#\JSONizer\JsonSerializer\obj\Debug\net9.0\JsonSerializer.pdb
+D:\niks\projects\c#\JSONizer\JsonSerializer\obj\Debug\net9.0\ref\JsonSerializer.dll
